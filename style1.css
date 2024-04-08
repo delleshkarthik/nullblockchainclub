@@ -1,0 +1,35 @@
+#head{
+    background-color: aqua
+}
+#para
+{
+    background-color: brown
+}
+h2{
+    color:chartreuse
+}
+.h
+{
+    color:blue;
+    text-align:center;
+}
+#para1
+{
+    background-color: crimson
+    
+}
+a:link
+{ color:black;
+    
+}
+a:visited
+{
+    color:chartreuse;
+}
+a:hover{
+    color:darkgoldenrod;
+}
+a:active
+{
+    color:crimson;
+}
